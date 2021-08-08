@@ -1,0 +1,1 @@
+ruby src/main.rb | node
